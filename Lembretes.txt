@@ -1,0 +1,6 @@
+Comando para iniciar o servidor Django
+python manage.py runserver
+Comando para criação automatica dos arquivos basicos
+django-admin.py startprjocet mysite .
+Comando para finalizar o servidor
+ctrl+c
