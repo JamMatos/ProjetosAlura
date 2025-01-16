@@ -1,2 +1,2 @@
 # ProjetosAlura
-Nesse repositorio deixarei todos os meus projetos feitos na Alura
+Nesse repositório deixarei todos os meus projetos feitos na Alura.
